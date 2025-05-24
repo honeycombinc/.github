@@ -19,5 +19,5 @@ At Honeycomb, we believe in making a meaningful difference in the lives of indiv
 
 ## Get Involved
 
-Interested in collaborating or investing in Honeycomb? Contact us at [amintalahmeh@gmail.com](mailto:amintalahmeh@gmail.com) or visit our website at [www.github.com/honeycombinc](https://www.github.com/honeycombinc).
+Interested in collaborating or investing in Honeycomb? Contact us at [amintalahmeh@gmail.com](mailto:amintalahmeh@gmail.com)
 
